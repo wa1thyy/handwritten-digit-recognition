@@ -35,8 +35,8 @@ cv-mnist-gradio/
     infer.py        # prediction helpers
   app/
     app.py          # Gradio UI
-  checkpoints/      # saved models (created at runtime)
-  assets/           # screenshots/GIFs (optional)
+  checkpoints/      # saved models 
+  assets/           # screenshots/GIFs 
   requirements.txt
   README.md
   .gitignore
@@ -44,6 +44,8 @@ cv-mnist-gradio/
 
 ## Results (example)
 - After 5 epochs on CPU, expect **~99%** test accuracy (±0.5%). On GPU: faster.
+- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14496a86-8dac-4307-910e-d366eea8a04b" />
+
 
 ## Notes / Next Steps
 - Add confusion matrix & misclassified samples to `assets/`.
