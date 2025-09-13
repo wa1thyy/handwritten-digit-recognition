@@ -41,12 +41,14 @@ cv-mnist-gradio/
   README.md
   .gitignore
 ```
+## 📸 Demo
+Example prediction of digit "8":
+
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/92117b8f-4f11-4427-a1c2-f14542f74b74" />
+
 
 ## Results
 - After 5 epochs on CPU, expect **~99%** test accuracy (±0.5%). On GPU: faster.
-- Also it shows probability of being this number
-- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14496a86-8dac-4307-910e-d366eea8a04b" />
-
 
 ## Notes / Next Steps
 - Add confusion matrix & misclassified samples to `assets/`.
