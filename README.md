@@ -28,9 +28,11 @@ python app/app.py
 
 - # Handwritten Digit Recognition
 
+Click to try it
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Open%20in%20Hugging%20Face%20Spaces-blue)](https://huggingface.co/spaces/wa1thyy/handwritten-digit-recognition)
 
 A minimal, portfolio-ready computer vision project: train a CNN on MNIST and serve a Gradio demo.
+
 
 
 ## Repo Structure
