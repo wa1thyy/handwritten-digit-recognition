@@ -42,8 +42,9 @@ cv-mnist-gradio/
   .gitignore
 ```
 
-## Results (example)
+## Results
 - After 5 epochs on CPU, expect **~99%** test accuracy (±0.5%). On GPU: faster.
+- Also it shows probability of being this number
 - <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14496a86-8dac-4307-910e-d366eea8a04b" />
 
 
