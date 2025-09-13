@@ -1,6 +1,6 @@
 # MNIST Classifier + Gradio Demo
 
-A minimal, portfolio-ready **computer vision** project: train a small CNN on **MNIST** and serve a **Gradio** demo where users can draw a digit or upload an image for prediction.
+A minimal **computer vision** project: train a small CNN on **MNIST** and serve a **Gradio** demo where users can draw a digit or upload an image for prediction.
 
 ## Features
 - ✅ Tiny CNN (PyTorch) with ~99% test accuracy after a few epochs
