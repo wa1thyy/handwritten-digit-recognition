@@ -26,6 +26,13 @@ python app/app.py
 - **Canvas**: draw a digit (0–9) and press *Predict*.
 - **Upload**: upload a 28x28 grayscale PNG/JPG of a digit.
 
+- # Handwritten Digit Recognition
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Open%20in%20Hugging%20Face%20Spaces-blue)](https://huggingface.co/spaces/wa1thyy/handwritten-digit-recognition)
+
+A minimal, portfolio-ready computer vision project: train a CNN on MNIST and serve a Gradio demo.
+
+
 ## Repo Structure
 ```
 cv-mnist-gradio/
