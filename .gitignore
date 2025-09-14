@@ -1,10 +1,23 @@
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+# Virtual env
 .venv/
-.env
+env/
+venv/
+ENV/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
 .DS_Store
-checkpoints/
-outputs/
-assets/*.mp4
+Thumbs.db
